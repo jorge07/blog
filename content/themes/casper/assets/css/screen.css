@@ -829,7 +829,7 @@ body.nav-opened .nav {
 /* When the navigation is closed and there is no cover image */
 .nav-closed .no-cover .menu-button {
     border-color: rgba(41, 206, 220, 0.54);;
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
 }
 .nav-closed .no-cover .menu-button:hover {
     color: #FFF;
@@ -968,7 +968,7 @@ body:not(.post-template) .post-title {
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
 }
 
 .author-thumb {
@@ -980,7 +980,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta a {
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
     text-decoration: none;
 }
 
@@ -1147,11 +1147,11 @@ body:not(.post-template) .post-title {
     font-size: 1.4rem;
     line-height: 1;
     font-style: italic;
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
 }
 
 .author-meta a {
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
 }
 .author-meta a:hover {
     color: #111;
@@ -1494,12 +1494,12 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: rgb(50, 167, 177);
     transition: all 0.2s ease;
 }
 
