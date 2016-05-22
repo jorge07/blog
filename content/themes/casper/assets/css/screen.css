@@ -1244,7 +1244,7 @@ body:not(.post-template) .post-title {
     box-sizing: border-box;
     display: block;
     position: absolute;
-    top: -40px;
+    top: -55px;
     left: 50%;
     margin-left: -40px;
     width: 80px;
