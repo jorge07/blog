@@ -987,6 +987,15 @@ body:not(.post-template) .post-title {
     float: right;
     white-space: nowrap;
 }
+.tags {
+
+    color: rgb(50, 167, 177);
+}
+
+.tags a {
+
+    color: rgb(0, 96, 117);
+}
 
 .user-image {
     position: absolute;
